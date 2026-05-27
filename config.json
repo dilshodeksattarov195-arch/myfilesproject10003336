@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyspdate",
+        "uuid": 1998264,
+        "checksum": "kvvyiq"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
